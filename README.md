@@ -1,1 +1,2 @@
 # OnlineShopping-SoftwareEngineering
+Thoroughly studied the concepts of documentation of the project including DFD,SRS etc.Conducted analysis and estimated risk exposure,function points,timeline using gantt chart for better delievery of the software.
